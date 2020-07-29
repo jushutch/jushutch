@@ -1,4 +1,4 @@
-![Header GIF](/small-header.gif)
+![Header GIF](https://github.com/jushutch/jushutch/blob/master/small-header.gif)
 <!--
 **jushutch/jushutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
