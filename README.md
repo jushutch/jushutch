@@ -1,5 +1,4 @@
-[![Justins's github stats](https://github-readme-stats.vercel.app/api?username=jushutch&count_private=true&theme=dark)](https://github.com/jushutch/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jushutch)](https://github.com/jushutch/github-readme-stats)
+![Header GIF](small-header.gif)
 <!--
 **jushutch/jushutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
