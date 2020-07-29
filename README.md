@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Justins's github stats](https://github-readme-stats.vercel.app/api?username=jushutch)](https://github.com/jushutch/github-readme-stats)
 
 <!--
 **jushutch/jushutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
