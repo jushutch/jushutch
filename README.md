@@ -1,4 +1,4 @@
-![Header GIF](https://github.com/jushutch/jushutch/blob/minimal-white/minimal-white-header.gif)
+![Header GIF](https://github.com/jushutch/jushutch/blob/minimal-white/output.gif)
 *GIF inspired by @cyrisXD*<br><br>
 Welcome to my GitHub! I'm a student at the University of Michigan, pursuing a B.S. in Computer Science. I'm an avid programmer, constantly learning new tools and languages, and I enjoy breaking code and finding bugs. Currently exploring different aspects of computer science, but looking to gain experience in the field of computer security. Besides programming I spend a lot of time reading, enjoying art, and writing.
 
