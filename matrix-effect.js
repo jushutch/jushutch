@@ -12,9 +12,9 @@ const cols = Math.floor(w / 50) + 1;
 const ypos = Array(cols).fill(0);
 
 function matrix() {
-    ctx.fillStyle = "rgba(255, 255, 255, .2)";
+    ctx.fillStyle = "rgba(255, 255, 255, .1)";
     ctx.fillRect(0, 0, w, h);
-    ctx.fillStyle = '#0f0';
+    ctx.fillStyle = '#057f05';
     ctx.font = '15pt monospace';
 
     ypos.forEach((y, ind) => {
@@ -26,4 +26,4 @@ function matrix() {
     });
 }
 
-setInterval(matrix, 50);
+setInterval(matrix, 100);
