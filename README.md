@@ -6,5 +6,5 @@ Welcome to my GitHub! I'm a third-year student at the University of Michigan, pu
 My experience is primarily in web development using the LAMP stack, but I've also built projects in C, C++, python, Go, and dart using the Flutter framework. Besides programming I spend a lot of time listening to music, reading, enjoying art, and writing.
 
 ## :airplane: Where to Find Me
-- :stars: [Professional Portfolio](jushutch.com)
+- :stars: [Professional Portfolio](https://jushutch.com)
 - :bust_in_silhouette: [LinkedIn](https://www.linkedin.com/in/jushutch/)
